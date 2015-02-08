@@ -1,0 +1,23 @@
+{
+  "name": "ng-qiniu",
+  "version": "0.0.0",
+  "authors": [
+    "jl- <i.dragonxx@gmail.com>"
+  ],
+  "description": "'qiniu uploader with <qiniu-upload> and QiniuService'",
+  "keywords": [
+    "angular",
+    "ng",
+    "qiniu",
+    "uploader"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jl-/ng-qiniu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
