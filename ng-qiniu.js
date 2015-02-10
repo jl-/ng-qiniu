@@ -9,7 +9,7 @@ angular.module('ngQiniu', [])
                 uploader: '=',
                 opts: '='
             },
-            template: '<div class="qiniu-upload-btn-wrapper"><button class="qiniu-upload-btn"><i class="fa fa-image mr-lg"></i>select</button></div>',
+            template: '<div class="qiniu-upload-btn-wrapper"><button class="qiniu-upload-btn fa fa-image">select</button></div>',
             link: function(scope, element, attrs) {
                 var opts = {
                     browse_button: element.children().eq(0)[0]
